@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Syne+Mono&display=swap');
+
+body{
+    background-color: #f6f3f3;
+}
+
+
+.header .top-header{
+    background: #191917;
+    
+}
+
+.navbar-brand{
+    font-size:30px
+}
+
+.nav-contents{
+    font-size:16px
+}
+
+.navbar-brand{
+    font-family: 'Syne Mono', monospace;
+    font-weight: 100;
+}
+
+.contdetails h2{
+    margin-top: 55px;
+    /* font-family: 'Louis George Cafe', sans-serif; */
+    font-weight: normal;
+}
+
+.contdetails h4{
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: lighter;
+}
+
+
+.conticon i{
+    text-decoration: none;
+    color: #191917;
+    font-size: 50px;
+}
+
+.conticon p{
+    margin-top: 20px;
+    padding-right: 40px;
+}
+
+.formfill{
+    margin-left: 190px;
+}
+
+.formfill input{
+    border-radius: 25px;
+    background-color: rgb(221, 218, 218);
+    border: 0px;
+    
+}
+
+.formfill textarea{
+    border-radius: 25px;
+    background-color: rgba(0, 0, 0, 0.05);
+    border: 0px;
+}
+
+.formfill button{
+    background: #7498ca;
+    border-radius: 25px;
+    text-transform: uppercase;
+    width: 110px;
+}
+
+
+
+.footer{
+    background: #191917;
+    margin-top: 100px;
+}
+
+.footer .socialicons a{
+    text-decoration: none;
+    color: #f6f3f3;
+}
+.footer .footer-copyright{
+    color: #f6f3f3;
+    text-decoration: none;
+}
+.footer .footer-copyright a{
+    color: #f6f3f3;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

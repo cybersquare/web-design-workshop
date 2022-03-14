@@ -1,0 +1,94 @@
+body{
+    padding-top: 90px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}.row{
+    margin: 0;
+}
+.navbar{
+    padding: 10px 40px;
+    box-shadow: rgba(67, 71, 85, 0.27) 0px 0px 0.25em, rgba(90, 125, 188, 0.05) 0px 0.25em 1em;
+    background-color: white;
+}
+.navbar .btn{
+    background-color: #742f7c;
+    color: white;
+    border-radius: 20px;
+    
+}
+.card{
+    text-align: center;
+    border: 0;
+    box-shadow: rgba(67, 71, 85, 0.27) 0px 0px 0.25em, rgba(90, 125, 188, 0.05) 0px 0.25em 1em;
+}
+.card .btn{
+    border-radius: 20px;
+    background-color: #db4404;
+    color: white;
+}
+.navbar li a{
+    color: black;
+    font-weight: bold;
+}
+.navbar img{
+    height: 60px;
+}
+.jumbotron1 .jumbotron{
+    height: 450px;
+    padding: 30px;
+}
+.jumbotron1 .jumbotron img{
+    height: 350px;
+    padding-left: 10%;
+}
+.jumbotron1 .jumbotron h1{
+    font-size: 40px;
+    padding-top: 8%;
+}
+.jumbotron .btn{
+    background-color: #db4404;
+    color: white;
+    font-weight: bold;
+    border-radius: 30px;
+    height: 50px;
+    width: 200px;
+}
+.image{
+    height: 300px;
+    width: 100%;
+    background-image: url(images/pic6.jpg);
+    background-size: cover;
+    text-align: center;
+    padding: 70px;
+    color: black;
+}
+.footer{
+    background-color:#087ca6 ;
+    height: 150px;
+    width: 100%;
+    background-size: cover;
+    text-align: center;
+    padding: 70px;
+    color: white;
+}
+.footer p{
+    font-size: 15px;
+}
+.about_content .img-fluid{
+    width: 70%;
+}
+.about_content p{
+    text-align: justify;
+    padding: 50px;
+}
+.contact .img-fluid{
+    width: 60%;
+}
+.contact{
+    padding: 100px;
+}
+.contact p{
+    font-size: 14px;
+}
+.lead{
+    font-size: 18px;
+}

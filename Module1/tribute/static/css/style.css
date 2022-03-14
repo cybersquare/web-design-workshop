@@ -1,0 +1,37 @@
+.jumbotron {
+    background: url("../images/main.jpg") center center / cover no-repeat;
+    height: 100vh;
+    background-size: cover;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.container{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.quote{
+    background-color: rgb(124, 121, 121);
+    color: rgb(0, 0, 0);
+    
+    width: 100%;
+    font-size: xx-large;
+    font-weight: bolder;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+th{
+    font-weight: bold;
+    color: brown;
+}
+h2{
+    color: green;
+}
+.award{
+    background-color: rgb(218, 230, 166);
+}
+.a{
+     background-color: rgb(218, 230, 166);
+}
+img{
+    height: 18rem;
+    width: 20rem;
+}
